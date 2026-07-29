@@ -1,4 +1,4 @@
-package Day3_Warm_up;
+
 
 import java.util.Scanner;
 
